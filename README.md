@@ -29,7 +29,7 @@ The orange nodes represent visited nodes.
 After the algorithm finishes executing, the shortest path will be displayed. Press the Space key to resest.
 
 ## Resources
-A-start algorithm explanation: https://www.youtube.com/watch?v=icZj67PTFhc
+A-Star algorithm explanation: https://www.youtube.com/watch?v=icZj67PTFhc
 
 Learning OpenGL: https://learnopengl.com/
 
